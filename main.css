@@ -1,0 +1,190 @@
+#headbar {
+    background: #ffffff;
+    line-height: 40px;
+    min-width: 980px;
+    margin-top: %;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    margin-left: -8px;
+}
+
+.headbar-links {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #000000;
+    padding-right:17px;
+    width:auto;
+    display: inline;
+    float: right;
+    white-space: nowrap;
+    margin-top: 11px;
+}
+
+.headbar-image {
+    display: inline;
+    margin-top: 22px;
+    padding-right: 21px;
+    float: right;  
+    opacity: .50;
+}
+
+.headbar-image:hover {
+    opacity: 1;
+}
+
+.sign-in {
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    margin-top: 16px;
+    margin-right: 30px;
+    line-height: 28px;
+    padding: 0 12px;
+    display: inline;
+    float: right;
+    white-space: nowrap;
+    border-radius: 2px;
+    background-color: #4285f4;
+    color: white;
+    text-align: left;
+}
+.headbar-links:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    width: auto;
+    padding-top: 190px;
+    text-align: -webkit-center;   
+}
+
+.sub-logo {
+    color: #4285f4;
+    font-size: 16px;
+    left: 79px;
+    position: relative;
+    top: -17px;
+    white-space: nowrap;
+    width: 0;
+    font-family: arial, sans-serif;
+}
+
+#search {
+    
+    text-align: -webkit-center;
+}
+
+.search-bar {
+    border: 1px solid #cccccc;
+    width: 500px;
+    height: 38px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+#buttons {
+    text-align: -webkit-center;
+    display: block;
+    margin-top: 30px 
+}
+
+
+.search-button {
+    font-weight: bold;
+    outline: none;
+    text-decoration: none;
+    height: 36px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    line-height: 27px;
+    white-space: nowrap;
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    color: #757575;
+    text-align: center;
+    padding: 10px 16px;
+    width: 125px; 
+    margin-right: 5px;
+}
+
+.search-button:hover {
+    color: #000000;
+    border: 1px solid #cccccc;
+    padding: 9px 15px;
+}
+
+.lucky-button {
+    font-weight: bold;
+    outline: none;
+    text-decoration: none;
+    height: 36px;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    line-height: 27px;
+    white-space: nowrap;
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    color: #757575;
+    text-align: center;
+    padding: 10px 16px;
+}
+
+.lucky-button:hover {
+    color: #000000;
+    border: 1px solid #cccccc;
+    padding: 9px 15px;
+}
+
+#footbar {
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    min-width: 980px;
+    margin: 0%;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    margin-left: -8px;
+}
+
+.ftr {
+    width:auto;
+    display: inline;
+    float: right;
+    white-space: nowrap;
+}
+
+.ftl {
+    display: inline;
+    width: auto;
+    white-space: nowrap;
+}
+
+.footbar-links {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #666666;
+    padding-left:27px;
+}
+
+.footbar-links-r {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #666666;
+    padding-right:27px;
+}
+
+.footbar-links:hover {
+    text-decoration: underline;
+}
+
+.footbar-links-r:hover {
+    text-decoration: underline;
+}
